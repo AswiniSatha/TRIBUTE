@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title>TRIBUTE | Jawaharlal Nehru</title>
+        <link rel="shortcut icon" href="./icon.jpg " type="image/x-icon">
+    </head>
+    <body>
+        <!-- HEADER SECTION -->
+    <div>
+        
+        <center><h1>JAWAHARLAL NEHRU</h1>
+        <span>Indian politican</span><br/><br/><br/>
+        <img src="./jawaharlal nehru.JPG" alt="Jawaharlal Image">
+        </center><br/><br/>
+    </div>
+    <!-- TIMELINES -->
+    <div>
+        
+        <h3>Here's a timeline of JAWAHARLAL NEHRU's life: </h4>
+            <ul>
+                <li>Jawaharlal Nehru was born on <b>14  November 1889 in Allahabad </b> (Now officially named as Prayagraj). His father was Motilal Nehru and his mother was Swaroop Rani, both belong to the Kashmiri pandit community</li>
+                <br/><li>In <b>1905</b>, he started his institutional schooling at Harrow, (a leading school in England), with the nickname of Joe.</li><br/>
+                <li>In <b> October 1907 </b>, he went to Trinity College, Cambridge, to pursue the course on an honors degree in natural science.</li><br/>
+                <li>After his degree was completed in <b>1910</b>, he started studying law at the Inner Temple Inn.</li><br/>
+                <li>In the year <b>1912</b>, he returned to India and tried to settle down as a barrister like his father</li><br/>
+                <li>Within months of returning to India, he attended the annual session of the Indian National Congress in Patna and from there started playing his part as a Freedom fighter.</li><br/>
+                <li>He married Kamala Kaul in <b>1916</b> and had a daughter named Indra in <b>1917</b>.</li><br/>
+                <li>At the time of the non-cooperation movement in <b>1920</b>, he made his first big involvement in national politics. And also had to go to jail many times due to their involvement in such activities.</li><br/>
+                <li>He also internationalized the Indian Freedom struggle and sought foreign allies for India. He forged links with others movements for independence and democracy. His efforts paid off in the year <b> 1927 </b> when Congress was invited to the congress of oppressed nationalities in Brussels, Belgium.</li><br/>
+                <li>From the year <b>1939 </b>, At the start of World War 2, Congress under Nehru decided to help the British but on the fulfillment of certain conditions, one of which was the assurance of complete independence of India after the war and right to frame a new constitution, but the British didn’t agree.</li><br/>
+                <li>After the war, India somehow got Independence from the British, but sadly India was divided into two nations, Pakistan and modern-day India. And Nehru was elected as the Prime minister of this nation.</li><br/>
+                <li>He led the country with his modern thinking and worked on the modernization of the Hindu religion.</li><br/>
+                <li>At last, he died on <b> 27th May, in 1962 </b> due to a cardiac arrest.</li><br/>
+
+            </ul>
+
+    </div>
+     <!-- tribute link -->
+    <div>
+       
+
+       <span> For more information,check out
+        <a  href="https://en.wikipedia.org/wiki/Jawaharlal_Nehru" target="_blank">
+            <b> JAWAHARLAL NEHRU's </b></a>life on Wikipedia.
+    </div>
+    
+    </body>
+</html>
